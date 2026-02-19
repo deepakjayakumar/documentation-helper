@@ -23,10 +23,11 @@ langchain-community = "*"
 langsmith = "*"
 pillow = "*"
 langchain-tavily = "*"
-langchain-pinecone = "*"
 certifi = "*"
-langchain-chroma = "*"
 python-dotenv = "*"
+langchain-chroma = "*"
+tokenizers = ">=0.21.4"
+langchain-google-genai = "*"
 
 [dev-packages]
 ipykernel = "*"
